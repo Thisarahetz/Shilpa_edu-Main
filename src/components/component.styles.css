@@ -1,0 +1,33 @@
+.border-padding-x{
+    padding: 10px 25px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.full-screen-fluid{
+    height: calc(100vh - 84px);
+}
+
+.copyright{
+    line-height: 12px;
+}
+
+.logo-watermark{
+    width: 300px;
+    opacity: 50%;
+}
+
+.qr-size{
+    width: auto;
+}
+
+.qr-frame-control{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.center{
+    transform: translate(-50%, 0%);
+}
